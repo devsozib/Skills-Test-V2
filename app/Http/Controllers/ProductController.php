@@ -65,20 +65,20 @@ class ProductController extends Controller
     
 
     private function getProducts()
-    {
-        $path = public_path($this->filePath);
-        if (!file_exists($path)) {
-            return [];
-        }
-
-        $products = json_decode(file_get_contents($path), true);
-
-        usort($products, function($a, $b) {
-            return strtotime($b['datetimeSubmitted']) - strtotime($a['datetimeSubmitted']);
-        });
-
-        return $products;
+{
+    $path = public_path($this->filePath);
+    if (!file_exists($path)) {
+        return [];
     }
+
+    $products = json_decode(file_get_contents($path), true);
+
+    usort($products, function($a, $b) {
+        return strtotime($b['datetimeSubmitted']) - strtotime($a['datetimeSubmitted']);
+    });
+
+    return $products;
+}
 
 }
 

@@ -12,5 +12,19 @@
         "pricePerItem": "4",
         "datetimeSubmitted": "2024-11-22T18:50:07.933855Z",
         "totalValue": 40
+    },
+    {
+        "productName": "Infd",
+        "qtyInStock": "33",
+        "pricePerItem": "22",
+        "datetimeSubmitted": "2024-11-22T19:05:04.323594Z",
+        "totalValue": 726
+    },
+    {
+        "productName": "Tamekah Branch",
+        "qtyInStock": "548",
+        "pricePerItem": "729",
+        "datetimeSubmitted": "2024-11-22T19:05:20.625508Z",
+        "totalValue": 399492
     }
 ]
