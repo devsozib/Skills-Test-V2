@@ -1,0 +1,16 @@
+[
+    {
+        "productName": "fsf",
+        "qtyInStock": "10",
+        "pricePerItem": "24",
+        "datetimeSubmitted": "2024-11-22T18:54:02.316551Z",
+        "totalValue": 240
+    },
+    {
+        "productName": "Infd",
+        "qtyInStock": "10",
+        "pricePerItem": "4",
+        "datetimeSubmitted": "2024-11-22T18:50:07.933855Z",
+        "totalValue": 40
+    }
+]
