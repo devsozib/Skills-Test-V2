@@ -1,30 +1,34 @@
 [
     {
-        "productName": "fsf",
+        "productName": "fdfs",
         "qtyInStock": "10",
-        "pricePerItem": "24",
-        "datetimeSubmitted": "2024-11-22T18:54:02.316551Z",
-        "totalValue": 240
+        "pricePerItem": "10",
+        "id": "6741b0a84ce4c",
+        "datetimeSubmitted": "2024-11-23T10:38:53.295615Z",
+        "totalValue": 100
     },
     {
-        "productName": "Infd",
-        "qtyInStock": "10",
-        "pricePerItem": "4",
-        "datetimeSubmitted": "2024-11-22T18:50:07.933855Z",
-        "totalValue": 40
+        "productName": "ss",
+        "qtyInStock": "996",
+        "pricePerItem": "358",
+        "id": "6741b04bb3e3d",
+        "datetimeSubmitted": "2024-11-23T10:36:59.736853Z",
+        "totalValue": 356568
     },
     {
-        "productName": "Infd",
-        "qtyInStock": "33",
-        "pricePerItem": "22",
-        "datetimeSubmitted": "2024-11-22T19:05:04.323594Z",
-        "totalValue": 726
+        "productName": "Sajib2",
+        "qtyInStock": "20",
+        "pricePerItem": "10",
+        "id": "6741afe4068c8",
+        "datetimeSubmitted": "2024-11-23T10:35:27.790098Z",
+        "totalValue": 200
     },
     {
-        "productName": "Tamekah Branch",
-        "qtyInStock": "548",
-        "pricePerItem": "729",
-        "datetimeSubmitted": "2024-11-22T19:05:20.625508Z",
-        "totalValue": 399492
+        "productName": "Sajib",
+        "qtyInStock": "20",
+        "pricePerItem": "20",
+        "id": "6741adc13186b",
+        "datetimeSubmitted": "2024-11-23T10:34:53.782991Z",
+        "totalValue": 400
     }
 ]
